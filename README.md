@@ -1,3 +1,2 @@
-# Curso Formação Node.js --> instrutor Victor Lima
-
+# Curso Formação Node.js
 <p>Criando um blog com Express.js e MySQL</p>
